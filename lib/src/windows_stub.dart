@@ -1,4 +1,4 @@
-import 'package:wakelock_platform_interface/wakelock_platform_interface.dart';
+// import 'package:wakelock_platform_interface/wakelock_platform_interface.dart';
 
 /// Stub of the Windows implementation that is required because of https://github.com/creativecreatorormaybenot/wakelock/issues/102.
 ///
